@@ -24,3 +24,7 @@ identity:
     and offline-first software architectures. Building since age 15.
   location: "Kolkata, India 🇮🇳"
   contact: "dev.subhamk@gmail.com"
+
+
+
+
