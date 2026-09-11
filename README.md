@@ -1,20 +1,26 @@
 <div align="center">
-  <!-- Dynamic Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=220&section=header&text=Hi%20there,%20I'm%20Subham%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <!-- Dynamic Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,34&height=220&section=header&text=SUBHAM%20KARMAKAR&fontSize=42&fontColor=38bdf8&fontAlignY=38&desc=Systems-Level%20Architect%20%7C%20Local%20AI%20%26%20IoT%20Automation%20Builder&descSize=16&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" />
 
-  <!-- Typing SVG Animation -->
+  <br/>
+
+  <!-- High-Contrast Typing SVG Banner -->
   <a href="https://github.com/SUBHAMKArM">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Python+%26+Full-Stack+Developer;Creator+of+Victus-ai;Automation+%26+Bot+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Systems-Level+Architecture+%26+IoT+Automation;Local+LLM+Pipelines+%26+Agentic+Workflows;Offline-First+%26+High-Throughput+Engineering;Google+Developer+Program+Member" alt="Typing Banner" />
   </a>
 </div>
 
 <br/>
 
-### 👨‍💻 About Me
+### ⚡ Technical Identity
 
 ```yaml
-name: Subham
-focus: AI Tools, Python Automation & Web Development
-projects_built: [Victus-ai, TelegramBot, AeroIntel-App]
-interests: [Artificial Intelligence, Automation, Open Source]
-motto: "Turning ideas into clean, functional code ⚡"
+identity:
+  name: "Subham Karmakar"
+  role: "Systems-Level Architect | Local AI & IoT Automation Builder"
+  credentials: "BCA @ Narula Institute of Technology | Google Developer Program Member"
+  philosophy: >
+    Bridging low-level hardware/IoT with local AI agents, automated pipelines,
+    and offline-first software architectures. Building since age 15.
+  location: "Kolkata, India 🇮🇳"
+  contact: "dev.subhamk@gmail.com"
