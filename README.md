@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- 🐉 FLYING DRAGON -->
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="220" alt="Flying Dragon" />
+
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--             ANIMATED WAVING HEADER BANNER              -->
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -115,10 +118,15 @@ engineer:
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 Live GitHub Telemetry
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SUBHAMKArM/SUBHAMKArM/main/assets/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUBHAMKArM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHAMKArM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9" height="165" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUBHAMKArM&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub Streak" />
 </div>
 
 ---
